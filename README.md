@@ -1,25 +1,7 @@
 # Journal-App
-This Application is an Android Mobile Application (journal application) in which users can pen down their thoughts and feelings. The app uses Firebase and Firestore for its online database operation, where users entry are saved in the cloud and retrieved back to the user when needed. 
-# Getting Started
-
-
-# Prerequisites
-
-
-
-# Installing
-
-
-
-
-# Running the tests
-
-
-## Break down into end to end tests
-
-
-# Deployment
-
+This Application is an Android Mobile Application (journal application) in which users can pen down their thoughts and feelings. 
+Users can add, edit and delete note entry into the app at real time.
+The app uses Firebase and Firestore for its online database operation, where users entry are saved in the cloud and retrieved back to the user in real time. 
 
 # Built With
 Figma - Application Prototype,
@@ -31,6 +13,7 @@ Firebase - Data cloudy
 Please read CONTRIBUTING.md for details on my code of conduct, and the process for submitting pull requests to me.
 
 # Versioning
+Journal App version 1.0
 
 
 # Author
